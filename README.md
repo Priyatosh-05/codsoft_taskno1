@@ -9,4 +9,4 @@ Generate Password: Use a combination of random characters to generate a password
 Display the Password: Print the generated password on the screen.
 
 
-Better to open this coode in Python IDLE.
+Better to open this code in Python IDLE.
